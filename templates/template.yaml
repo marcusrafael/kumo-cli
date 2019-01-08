@@ -1,0 +1,5 @@
+---
+migration:
+  source_account: amazon
+  destination_account: google
+  virtual_machine: kumo-cin-ufpe-br
